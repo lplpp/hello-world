@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace core_web_lianxi
+namespace RazorPagesMovie
 {
     public class Program
     {
